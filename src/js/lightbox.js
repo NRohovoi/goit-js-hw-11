@@ -1,4 +1,4 @@
-import SimpleLightbox from 'simplelightbox';
+import SimpleLightbox from "simplelightbox";
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 let lightbox = new SimpleLightbox('.photo-card a', {
