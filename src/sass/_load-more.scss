@@ -1,0 +1,26 @@
+.load-more {
+  display: block;
+  text-align: center;
+  margin: 20 auto;
+  border: 5px solid #e6d16c;
+  border-radius: 25px;
+  padding: 20px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.15);
+  background-color: #16014c;
+  color: #fff;
+  font-size: 25px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+  &:hover,
+  &:focus {
+    background-color: #e6d16c;
+    border: 10px solid #16014c;
+    transform: scale(1.2);
+    color: #000;
+  }
+
+  &.is-hidden {
+    display: none;
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "goit-js-hw-11",
+  "version": "2.0.0",
+  "description": "",
+  "homepage": "https://nrohovoi.github.io/goit-js-hw-11/",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NRohovoi/goit-js-hw-11.git"
+  },
+  "keywords": [],
+  "author": "Nikita Rohovoi <nrohovoi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NRohovoi/goit-js-hw-11/issues"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash.throttle": "^4.1.1",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5",
+    "notifyjs": "^3.0.0",
+    "simplelightbox": "^2.10.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "buffer": "^6.0.3",
+    "cssnano": "^5.1.13",
+    "gh-pages": "^4.0.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "postcss": "^8.4.16",
+    "posthtml-include": "^1.7.4",
+    "process": "^0.11.10"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}
