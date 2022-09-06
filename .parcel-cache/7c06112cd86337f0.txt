@@ -23,7 +23,7 @@
 51D:\JS\HomeWork\goit-js-hw-11\node_modules\@mischnic133068984415344342 1
 78D:\JS\HomeWork\goit-js-hw-11\node_modules\css-tree\lib\syntax\node\Brackets.js133068984467414534 0
 91D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133068984465565592 0
-33D:\JS\HomeWork\goit-js-hw-11\dist133068985081293015 1
+33D:\JS\HomeWork\goit-js-hw-11\dist133068986469728000 1
 70D:\JS\HomeWork\goit-js-hw-11\node_modules\make-dir\node_modules\semver133068984463206938 1
 75D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\ime.js133068984503124084 0
 39D:\JS\HomeWork\goit-js-hw-11\.gitignore133068983294895906 0
@@ -4936,7 +4936,7 @@
 66D:\JS\HomeWork\goit-js-hw-11\node_modules\fs.realpath\package.json133068984449364853 0
 63D:\JS\HomeWork\goit-js-hw-11\node_modules\fs-extra\CHANGELOG.md133068984453612432 0
 63D:\JS\HomeWork\goit-js-hw-11\node_modules\fs-extra\package.json133068984449424821 0
-52D:\JS\HomeWork\goit-js-hw-11\dist\index.b07a87f3.css133068985080953228 0
+52D:\JS\HomeWork\goit-js-hw-11\dist\index.b07a87f3.css133068986468928479 0
 85D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-clip-path.js133068984495308551 0
 60D:\JS\HomeWork\goit-js-hw-11\node_modules\fs-extra\README.md133068984458169817 0
 60D:\JS\HomeWork\goit-js-hw-11\node_modules\fs-extra\lib\empty133068984467594418 1
@@ -5731,7 +5731,7 @@
 90D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-cascade-layers.js133068984495178633 0
 88D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-color-adjust.js133068984495368514 0
 91D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-conic-gradients.js133068984495478462 0
-44D:\JS\HomeWork\goit-js-hw-11\dist\index.html133068985081283023 0
+44D:\JS\HomeWork\goit-js-hw-11\dist\index.html133068985712691476 0
 70D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\package-manager\test133068984480497033 1
 93D:\JS\HomeWork\goit-js-hw-11\node_modules\caniuse-lite\data\features\css-container-queries.js133068984495528427 0
 76D:\JS\HomeWork\goit-js-hw-11\node_modules\abortcontroller-polyfill\README.md133068984470312862 0
@@ -6616,7 +6616,7 @@
 92D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133068984470862552 0
 80D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\transformer-babel\lib\types.js133068984472351697 0
 80D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\transformer-babel\lib\utils.js133068984473511037 0
-51D:\JS\HomeWork\goit-js-hw-11\dist\index.975ef6c8.js133068985081013187 0
+51D:\JS\HomeWork\goit-js-hw-11\dist\index.975ef6c8.js133068986468938459 0
 71D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\source-map\index.d.ts133068984490521299 0
 82D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_wasm133068984469093559 1
 70D:\JS\HomeWork\goit-js-hw-11\node_modules\@parcel\source-map\README.md133068984475739757 0
@@ -7169,5 +7169,5 @@
 51D:\JS\HomeWork\goit-js-hw-11\node_modules\.bin\sass133068984519414752 0
 55D:\JS\HomeWork\goit-js-hw-11\node_modules\.bin\svgo.ps1133068984519414752 0
 57D:\JS\HomeWork\goit-js-hw-11\node_modules\.bin\terser.ps1133068984519424741 0
-55D:\JS\HomeWork\goit-js-hw-11\dist\index.975ef6c8.js.map133068985081183113 0
-56D:\JS\HomeWork\goit-js-hw-11\dist\index.b07a87f3.css.map133068985081063156 0
+55D:\JS\HomeWork\goit-js-hw-11\dist\index.975ef6c8.js.map133068986469078373 0
+56D:\JS\HomeWork\goit-js-hw-11\dist\index.b07a87f3.css.map133068986469078373 0
